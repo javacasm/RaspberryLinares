@@ -10,7 +10,7 @@
 ### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
 
 1. Introducción
-	1. [Índice](./base.md)
+	1. [Índice](./indice.md)
 	1. [¿Qué sabes de Raspberry Pi?](./encuentaInicial.md)
 	1. [Historia](./historia.md)
 	1. [Proyectos donde la usan](./proyectos.md)
