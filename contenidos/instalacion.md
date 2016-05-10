@@ -11,7 +11,7 @@
 
 # Instalación
 
-[¿Qué necesitamos?]
+¿Qué necesitamos?
 
 * Formatear tarjeta ([http://www.sdcard.org/downloads/formatter_4/](http://www.sdcard.org/downloads/formatter_4/))
 * Descargamos la imagen [http://www.raspberrypi.org/download](http://www.raspberrypi.org/download)
