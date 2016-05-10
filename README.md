@@ -11,7 +11,7 @@
 
 ![raspberry](./images/logoRasp.png)
 
-## [Indice](./contenido/indice.md)
+## [Indice](./contenidos/indice.md)
 
 ## [¿Qué necesito?](./materiales.md)
 
