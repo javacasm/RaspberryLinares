@@ -24,13 +24,14 @@ diferentes fines.
 * Aprender a realizar programas usando lenguajes de scripts como Python o Perl
 * Aprender a montar proyectos con electrónica que se puedan controlar desde la plataforma
 
-![esquema](https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Drawing_of_Raspberry_Pi_model_B_rev2.svg/1280px-Drawing_of_Raspberry_Pi_model_B_rev2.svg.png)
+![esquema](./images/esquema.png)
 
 ### Esquema del curso
 
--   Introducción
--   Características generales de la placa Raspberry Pi. Hardware
--   Primeros pasos con Raspberry Pi. Software
--   Lenguaje de programación y entorno de desarrollo integrado
--   Utilización de librerías externas para programación
--   Conexión con equipos electrónicos y Arduino
+- Introducción
+- Características generales de la placa Raspberry Pi. Hardware
+- Primeros pasos con Raspberry Pi. Software
+- Lenguaje de programación y entorno de desarrollo integrado
+- Utilización de librerías externas para programación
+- Conexión con equipos electrónicos y Arduino
+- [¿Qué necesito?](./materiales.md)
