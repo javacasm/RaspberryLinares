@@ -4,14 +4,14 @@
 
 11, 12 y 17 de Mayo de 2016
 
-![CC](./images/Licencia_CC.png)
+![CC](./imagenes/Licencia_CC.png)
 ## José Antonio Vacas  @javacasm
 
 ### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
 
 1. Introducción
 	1. [Índice](./indice.md)
-	1. [¿Qué sabes de Raspberry Pi?](./encuentaInicial.md)
+	1. [¿Qué sabes de Raspberry Pi?](./encuestaInicial.md)
 	1. [Historia](./historia.md)
 	1. [Proyectos donde la usan](./proyectos.md)
 	1. [Raspberry Pi en los medios](./raspiMedios.md)
