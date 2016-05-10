@@ -4,13 +4,13 @@ CEP de Linares-Andújar
 
 11,12 y 17 de Mayo de 2016
 
-![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+![CC](./images/Licencia_CC.png)
 ## José Antonio Vacas  @javacasm
 
 
-![raspberry](https://www.raspberrypi.org/wp-content/uploads/2015/08/raspberry-pi-logo.png)
+![raspberry](./images/logoRasp.png)
 
-[](#raspberry-pi)Raspberry pi: introducción al uso y programación {#raspberry-pi}
+[](#raspberry-pi)Raspberry pi: introducción al uso y programación
 ================================================================
 
 Raspberry Pi se ha convertido, junto con Arduino, en uno de los máximos exponentes del desarrollo casero y profesional basado en herramientas libres, pudiendo ser una plataforma hardware de desarrollo, un pequeño ordenador personal sobre el que programar, navegar o editar un documento de texto, un reproductor de música, películas o imágenes, o la base sobre la que construir un sistema de almacenamiento en red para compartir archivos entre los equipos que tengamos en nuestra red.
