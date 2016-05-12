@@ -199,6 +199,7 @@ Para identificar más fácilmente los pines podemos usar una etiqueta
 
 ![etiqueta](./imagenes/etiqueta.png)
 
+
 ## Placas GPIO
 
 ### Clobber
@@ -210,7 +211,7 @@ Para identificar más fácilmente los pines podemos usar una etiqueta
 * En cualquier caso ganamos en tranquilidad al usarlas.
 
 
-![clobber](./imagenes/clobber.png)
+![clobber](./imagenes/clobber.jpg)
 
 Son simples adaptadores que nos facilitan la vida permitiendo conectar de manera sencilla
 con las placas de prototipo
